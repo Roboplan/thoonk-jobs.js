@@ -26,7 +26,7 @@
         "url": "http://github.com/fritzy/thoonk-jobs.git"
     },
     "dependencies": {
-        "thoonk": "1.0.0",
+        "thoonk": "git://github.com/andyet/thoonk.js.git",
         "node-uuid": "1.4.0"
     },
     "devDependencies": {
